@@ -1,5 +1,5 @@
 ## Nazwa: Baza teatru (Technologia JDBC) 
-# Termin oddania : 7.11.2015
+# Termin oddania : 24.12.2016
 # Opis: Tabele aktor i przedstawienie oraz tabela występ jako pośrednicząca w relacji n:m
  Wymagania odnośnie projektu
 
